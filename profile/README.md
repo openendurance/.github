@@ -21,7 +21,7 @@ OEI is just getting started, and we need your help! Here's what we're looking fo
 -  Graphic designers and UX folks
 -  Writers to help with documentation and requirements
 -  Writers to help with marketing copy and web content
--  Social media marketers to help with, well, social media marketing
+-  Social media experts to help with social media efforts
 
 Note that we're building an ecosystem of tools, so where your time is best spent depends on what you like to do. For example, we need UI/UX help building out our design system and developer help with our core SDK./ For a look at everything we're working on, check out the repositories below or the [OEI Roadmap](https://github.com/orgs/openendurance/projects/4/views/1).
 
