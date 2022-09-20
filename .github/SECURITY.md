@@ -4,9 +4,7 @@ Thanks for helping us keep open source endurance safe for everyone ✨✨
 
 ## Supported Versions
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.0.x   | :white_check_mark: |
+This is dicated on a repository-by-repository basis. Please [reach out](mailto:security@openendurance.org) for questions about supported versions.
 
 ## Reporting a Vulnerability
 
