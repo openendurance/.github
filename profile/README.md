@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/1126366/191340813-bb3986c7-c98f-4714-b9e3-6457f99f6384.png)
 
 # Open Endurance Initiative
-> The Open Endurance Initiative was created to foster open innovation, collaboration, and equity in endurance sports.
+> The Open Endurance Initiative was created to help foster open innovation, collaboration, and equity in endurance sports.
 
 ## History
 
