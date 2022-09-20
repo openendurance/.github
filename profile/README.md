@@ -23,9 +23,15 @@ OEI is just getting started, and we need your help! Here's what we're looking fo
 -  Writers to help with marketing copy and web content
 -  Social media marketers to help with, well, social media marketing
 
-Note that we're building an ecosystem of tools, so your time might be best spent on one of our other projects. For example, we need UI/UX help building out our design system. For a look at everything we're working on, check out the [OEI organization page](https://github.com/openendurance).
+Note that we're building an ecosystem of tools, so where your time is be best spent depends on what you like to do. For example, we need UI/UX help building out our design system and developer help with our core SDK./ For a look at everything we're working on, check out the repositories below or the [OEI Roadmap](https://github.com/orgs/openendurance/projects/4/views/1).
 
 If you're interests lie outside something that can be accomplished through github–social media, for example, [email us](mailto:team@openendurance.org) to talk about how we might best collaborate.
+
+## Licensing of our tools
+
+OEI's documentation, source code, tools, and related [NPM packages](https://www.npmjs.com/settings/openendurance/packages) are typically released under either the [MIT](https://opensource.org/licenses/MIT) or [GPLv3](https://opensource.org/licenses/gpl-3.0.html) license. See each repository's `LICENSE` file for more info on specific licensing requirements.
+
+Photos used in the docs are property of their respective owners (probably @kcargile) and are subject to copyright unless otherwise specified.
 
 ---
 
