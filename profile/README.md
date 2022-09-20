@@ -23,10 +23,11 @@ OEI is just getting started, and we need your help! Here's what we're looking fo
 - Writers to help with documentation and requirements
 - Writers to help with marketing copy and web content
 - Social media experts to help with social media efforts
+- Legal counsel specializing in open source software
 
 Note that we're building an ecosystem of tools, so where your time is best spent depends on what you like to do. For example, we need UI/UX help building out our design system and developer help with our core SDK./ For a look at everything we're working on, check out the repositories below or the [OEI Roadmap](https://github.com/orgs/openendurance/projects/4/views/1).
 
-If you're interests lie outside something that can be accomplished through github–-social media, for example--[email us](mailto:team@openendurance.org) to talk about how we might best collaborate.
+If you're interests lie outside something that can be accomplished through github–-social media or legal, for example--[email us](mailto:team@openendurance.org) to talk about how we can best collaborate.
 
 ## Licensing
 
