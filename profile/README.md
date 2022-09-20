@@ -27,7 +27,7 @@ Note that we're building an ecosystem of tools, so where your time is best spent
 
 If you're interests lie outside something that can be accomplished through github–social media, for example, [email us](mailto:team@openendurance.org) to talk about how we might best collaborate.
 
-## Licensing of our tools
+## Licensing
 
 OEI's documentation, source code, tools, and related [NPM packages](https://www.npmjs.com/settings/openendurance/packages) are typically released under either the [MIT](https://opensource.org/licenses/MIT) or [GPLv3](https://opensource.org/licenses/gpl-3.0.html) license. See each repository's `LICENSE` file for more info on specific licensing requirements.
 
