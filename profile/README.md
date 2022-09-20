@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/1126366/191340813-bb3986c7-c98f-4714-b9e3-6457f99f6384.png)
 
 # Open Endurance Initiative (OEI)
+
 > The Open Endurance Initiative was created to help foster open innovation, collaboration, and equity in endurance sports.
 
 ## History
@@ -15,13 +16,13 @@ Interesting in helping shape the future of open source endurance sports? Jump in
 
 OEI is just getting started, and we need your help! Here's what we're looking for:
 
--  Maintainers to help with various projects
--  Developers
--  Devops engineers
--  Graphic designers and UX folks
--  Writers to help with documentation and requirements
--  Writers to help with marketing copy and web content
--  Social media experts to help with social media efforts
+- Maintainers to help with various projects
+- Developers
+- Devops engineers
+- Graphic designers and UX folks
+- Writers to help with documentation and requirements
+- Writers to help with marketing copy and web content
+- Social media experts to help with social media efforts
 
 Note that we're building an ecosystem of tools, so where your time is best spent depends on what you like to do. For example, we need UI/UX help building out our design system and developer help with our core SDK./ For a look at everything we're working on, check out the repositories below or the [OEI Roadmap](https://github.com/orgs/openendurance/projects/4/views/1).
 
@@ -29,7 +30,7 @@ If you're interests lie outside something that can be accomplished through githu
 
 ## Licensing
 
-OEI's documentation, source code, tools, and related [NPM packages](https://www.npmjs.com/settings/openendurance/packages) are typically released under either the [MIT](https://opensource.org/licenses/MIT) or [GPLv3](https://opensource.org/licenses/gpl-3.0.html) license. See each repository's `LICENSE` file for more info on specific licensing requirements.
+OEI's documentation, source code, tools, and related [NPM packages](https://www.npmjs.com/settings/openendurance/packages) are typically released under either the [MIT](https://opensource.org/licenses/MIT) or [GPLv3](https://opensource.org/licenses/gpl-3.0.html) license. See each repository's `LICENSE` file for specifics.
 
 Photos used in the docs are property of their respective owners (probably @kcargile) and are subject to copyright unless otherwise specified.
 
