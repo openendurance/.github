@@ -6,9 +6,9 @@
 
 ## History
 
-The motivation to create OEI was born from the idea to open source [Group Run Finder](https://grouprunfinder.com) and the dataset that powers it-–an effort that is currently in progress–-to better align development of that product with the overarching goal of fostering community and inclusion in running. Much of the work that is being migrated and open sourced is what powers GRF today, and the objective is to expand on that foundation to enable developers to more quickly build commercial-grade applications that serve the larger endurance sports ecosystem–-we hope with similar objectives to ours.
+The motivation to create OEI was born from the idea to open source [Group Run Finder](https://grouprunfinder.com) and the dataset that powers it-–an effort that is currently in progress–-to better align development of that product with the overarching goal of fostering community and inclusion in running. Much of the work that is being migrated and open sourced is what powers GRF today, and the objective is to expand on that foundation to enable developers to more quickly build commercial-grade applications that serve the larger endurance sports ecosystem, we hope with similar objectives to our own.
 
-We're still early on in this process and this is very much work-in-progress, but the genuine hope is that of building a long-lasting platform that can be used to encourage innovation, transparency, and equity in our respective sports. For more info on OEI's goals, please visit [openendurance.org](https://openendurance.org) (ahem, we sure could use some help building building that site out, j/s).
+We're still early on in this process and this is very much work-in-progress, but the genuine hope is that of building a long-lasting platform that can be used to encourage innovation, transparency, and equity in our respective sports. For more info on OEI's goals, please visit [openendurance.org](https://openendurance.org) (ahem, we sure could use some help building building that site 🤷).
 
 Interesting in helping shape the future of open source endurance sports? Jump in and give us a hand (see _Contribute to OEI_, below) or [drop us a line](mailto:team@openendurance.org) with your ideas, thoughts, or other feedback.
 
