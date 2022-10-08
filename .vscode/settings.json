@@ -1,20 +1,36 @@
 {
 	"cSpell.ignorePaths": [
+		"package-lock.json",
+		"node_modules",
+		"vscode-extension",
 		".git/objects",
 		".vscode",
-		".vscode-insiders"
+		".vscode-insiders",
+		"**/test/**/*"
 	],
 	"cSpell.words": [
 		"algorythmic",
 		"cargile",
 		"fkt",
+		"geohash",
 		"grf",
 		"grouprunfinder",
-        "Leadville",
+		"IOei",
 		"openendurance",
 		"openenduranceinitiative",
+		"speedwork",
+		"strava",
 		"ultrarunning"
 	],
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.formatOnSave": true,
-	"editor.formatOnPaste": false
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true,
+	},
+	"javascript.validate.enable": false,
+	"typescript.tsdk": "./node_modules/typescript/lib"
 }

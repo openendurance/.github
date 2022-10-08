@@ -34,7 +34,7 @@ If you're interests lie outside something that can be accomplished through githu
 
 OEI's documentation, source code, tools, and related [NPM packages](https://www.npmjs.com/settings/openendurance/packages) are typically released under either the [MIT](https://opensource.org/licenses/MIT) or [GPLv3](https://opensource.org/licenses/gpl-3.0.html) license. See each repository's `LICENSE` file for specifics.
 
-Photos used in the docs are property of their respective owners (probably @kcargile) and are subject to copyright unless otherwise specified.
+Photos used in the docs are property of their respective owners (probably [@kcargile](https://github.com/kcargile)) and are subject to copyright unless otherwise specified.
 
 ---
 
