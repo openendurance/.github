@@ -6,7 +6,7 @@
 
 ## History
 
-The motivation to create OEI was born from the idea to open source [Group Run Finder](https://grouprunfinder.com) and the dataset that powers it-–an effort that is currently in progress–-to better align development of that product with the overarching goal of fostering community and inclusion in running. Much of the work that is being migrated and open sourced is what powers GRF today, and the objective is to expand on that foundation to enable developers to more quickly build commercial-grade applications that serve the larger endurance sports ecosystem, we hope with similar objectives to our own.
+The motivation to create OEI was born from the idea to open source [Group Run Finder](https://grouprunfinder.com) and the dataset that powers it–an effort that is currently in progress–to better align development of that product with the overarching goal of fostering community and inclusion in running. Much of the work that is being migrated and open sourced is what powers GRF today, and the objective is to expand on that foundation to enable developers to more quickly build commercial-grade applications that serve the larger endurance sports ecosystem, we hope with similar objectives to our own.
 
 We're still early on in this process and this is very much work-in-progress, but the genuine hope is that of building a long-lasting platform that can be used to encourage innovation, transparency, and equity in our respective sports. For more info on OEI's goals, please visit [openendurance.org](https://openendurance.org) (ahem, we sure could use some help building building that site 🤷).
 
@@ -28,7 +28,7 @@ OEI is just getting started, and we need your help! Here's what we're looking fo
 
 Note that we're building an ecosystem of tools, so where your time is best spent depends on what you like to do. For example, we need UI/UX help building out our design system and developer help with our core SDK./ For a look at everything we're working on, check out the repositories below or the [OEI Roadmap](https://github.com/orgs/openendurance/projects/4/views/1).
 
-If you're interests lie outside something that can be accomplished through github–-social media or legal, for example--[email us](mailto:team@openendurance.org) to talk about how we can best collaborate.
+If you're interests lie outside something that can be accomplished through github–social media or legal, for example–[email us](mailto:team@openendurance.org) to talk about how we can best collaborate.
 
 ## Licensing
 
